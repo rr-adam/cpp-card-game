@@ -7,11 +7,11 @@ Compile core.cpp and place deck.txt in the same folder as the executable file.
 
 # screens
 
-![Welcome screen](https://raw.githubusercontent.com/rlyfow/cards/master/screens/scr1.png "Welcome screen")
+![Welcome screen](https://github.com/rr-adam/cpp-card-game/blob/main/scr1.png?raw=true "Welcome screen")
 
-![Placing card screen](https://raw.githubusercontent.com/rlyfow/cards/master/screens/scr2%20placing%20card.png "Placing card screen")
+![Placing card screen](https://github.com/rr-adam/cpp-card-game/blob/main/scr2%20placing%20card.png?raw=true "Placing card screen")
 
-![Combat screen](https://raw.githubusercontent.com/rlyfow/cards/master/screens/scr3%20combat.png "Combat screen")
+![Combat screen](https://github.com/rr-adam/cpp-card-game/blob/main/scr3%20combat.png?raw=true "Combat screen")
 
 
 # rules
